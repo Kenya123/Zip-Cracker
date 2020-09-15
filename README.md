@@ -1,2 +1,2 @@
 Zip file password cracker 
-Usage: -f <file.zip> -d <dictionary>
+Usage: -f <file.zip> -d dictionary
